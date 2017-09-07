@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BemoAssignment</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Movies</string>
+    <string name="desc_slide1">Always updated your self with latest movies </string>
+    <string name="title_slide2">Gossip on Movies</string>
+    <string name="desc_slide2">Chitter- chatter on the latest movies with buddy and keep update it  </string>
+    <string name="title_slide3">All in One App</string>
+    <string name="desc_slide3">Lots of latest features click on start and enjoy.</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="name_movie">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Now Playing </string>
+    <string name="pref_highest_rated">Highest Rated</string>
+    <string name="trailer">Trailer</string>
+
+
+
+
+
+
+
+
+
+</resources>
